@@ -1,0 +1,56 @@
+CHARACTERS:
+-Operator
+-Mutant
++animations for them: 
+*idle
+*walking, shouldered weapon (for operator)
+*sprinting/running, weapon down (for operator)
+*juming
+*crouching
+*leaping (for mutant)
+*weird, bone-broken landing pose (for mutant)
+
+MODELS:
+-AK47
++mag, brass
+-M4, brass
++mag
+-Shotgun
++mag, brass
+-Grenade
++grenade projectile
+-Knife
+
+TEXTURES / EFFECTS
+-Knife hit decal (body, stone, wood)
+-Bullet hole decal (body, stone, wood)
+-Knife explosion mark 
+-Bullet hit Effect (body, stone, wood)
+-Knife hit Effect (body, stone, wood)
+-Explosion
+
+OBJECTS:
+-Ammo pickup, for each type
+-Barrel
+-Box
+-Palette
+-Fence
+-LampPost
+-Indoor light
+-Shelf
+-Desk
+
+MESHES:
+-Door
+-Walls
+-Floor
+-Road
+-Ceiling
+-Roof
+-Tree
+-Bush
+-Road
+-Ground
+
+MISCELENIOUS
+-dog
